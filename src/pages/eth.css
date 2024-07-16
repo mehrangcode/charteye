@@ -1,0 +1,6 @@
+.transactions {
+	font-size: 11px;
+	height: 24rem;
+	overflow: auto;
+	line-height: 1.5rem;
+}
